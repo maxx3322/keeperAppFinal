@@ -1,2 +1,0 @@
-# keeperAppFinal
-Created with CodeSandbox
